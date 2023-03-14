@@ -3,5 +3,9 @@
 
 int main()
 {
+    float celsius, fahrenheit;
 
+    /* Input temperature in celsius */
+    printf("Enter temperature in Celsius: ");
+    scanf("%f", &celsius);
 }
